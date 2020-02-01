@@ -1,0 +1,22 @@
+{
+    "name": "Автошкола Форвард",
+    "short_name": "Форвард",
+    "description": "Автошкола в Екатеринбурге",
+    "start_url": "https://forward96.ru/",
+    "lang": "ru-RU",
+    "icons": [
+        {
+            "src": "/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#181a1b",
+    "display": "browser"
+}
